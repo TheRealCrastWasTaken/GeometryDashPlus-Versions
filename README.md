@@ -15,5 +15,5 @@ The upcoming version will be v2.2.1, and will introduce a new tab, Discovery!
 The Discovery tab will be a place where you can find new addons to discover and download. Discovery uses a GitHub API.
 Stay tuned for the new update! **<3**
 ## Credits
-[Crast](https://github.com/TheRealCrastWasTaken)
-[GabRio Blu](https://github.com/GabRioBlu)
+- [Crast](https://github.com/TheRealCrastWasTaken)
+- [GabRio Blu](https://github.com/GabRioBlu)
