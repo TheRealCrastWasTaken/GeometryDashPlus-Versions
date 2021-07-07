@@ -11,9 +11,12 @@ Currently, the latest version is v2.1.2, and can be found [here](https://github.
 This specific update fixes a few bugs. That's literally it.
 We should also introduce our new member, [GabRio Blu](https://github.com/GabRioBlu)! He will help with the coding of the following versions. Stay tuned for more!
 ## Upcoming Version
-The upcoming version will be v2.2.1, and will introduce a new tab, Discovery!
+The upcoming version will be v2.2.1, and will introduce a new tab, Discovery!cr
 The Discovery tab will be a place where you can find new addons to discover and download. Discovery uses a GitHub API.
 Stay tuned for the new update! **<3**
+
+Note: We will be creating a repository where you can add addons for them to be accessed by the program. - GabRioBlu, struggling to figure out how to access the contents of a repository.
+
 ## Credits
 - [Crast](https://github.com/TheRealCrastWasTaken)
 - [GabRio Blu](https://github.com/GabRioBlu)
