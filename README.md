@@ -7,15 +7,19 @@ The **Saved Addons** tab can be used to view, activate, rename, remove your addo
 ### About
 It's basically just an about page, kiddo. What did'ya expect? \*sans face\*
 ## Latest Version
-Currently, the latest version is v2.1.2, and can be found [here](https://github.com/TheRealCrastWasTaken/GeometryDashPlus-Versions/blob/master/GD%2B%20v2.1.2.zip).
+Currently, the latest version is v2.2.3, and can be found [here](https://github.com/TheRealCrastWasTaken/GeometryDashPlus-Versions/blob/master/GD%2B%20v2.2.3.zip).
 This specific update fixes a few bugs. That's literally it.
+
+OLD:
 We should also introduce our new member, [GabRio Blu](https://github.com/GabRioBlu)! \*children cheering "yay" sound effect\* He will help with the coding of the following versions. Stay tuned for more!
+/OLD:
+
 ## Upcoming Version
-The upcoming version will be v2.2.1, and will introduce a new tab, Discovery!
-The Discovery tab will be a place where you can find new addons to discover and download. Discovery uses a GitHub API.
-Stay tuned for the new update! **<3**
+The upcoming version will be (idk), and will... do stuff?
+Stay tuned for the new update! **<3** (maybe)
 
 Note: We will be creating a repository where you can add addons for them to be accessed by the program. - GabRioBlu, struggling to figure out how to access the contents of a repository.
+(actually I did that ages ago now)
 
 ## Credits
 - [Crast](https://github.com/TheRealCrastWasTaken)
